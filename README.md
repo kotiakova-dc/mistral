@@ -1,1 +1,1 @@
-# mistral
+# template
